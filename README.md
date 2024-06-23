@@ -1,2 +1,2 @@
-# Task.CodeSoft
+# CodeSoft
 This is my first Git repository
